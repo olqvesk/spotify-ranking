@@ -7,6 +7,7 @@ Takes and uses raw data from spotify API.
 
 ## Built With 
 - Python
-- Flask(Web)
+- Flask(Web)![Uploading Jan-20-2024 15-33-10.gif…]()
+
 - HTML(BootStrap)
 - Spotify API
